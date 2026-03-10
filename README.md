@@ -1,5 +1,7 @@
 ## Hi, I'm Shashank 👋
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/76e094d1-ba89-49fb-9372-b8e9ee053c16/thumbnail" >
+</p>
 I’m a design-led builder exploring backend systems, product design, and creative technology.  
 Recently I’ve been focused on learning by shipping real tools — experimenting with APIs, databases, and thoughtful UX.
 
